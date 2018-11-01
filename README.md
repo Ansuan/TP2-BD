@@ -2,9 +2,7 @@
 
 Este ejercicio usa dos formularios consultando una fichero sin base de datos.
 
-
 Usuario: prueba
-
 
 Contraseña: prueba
 

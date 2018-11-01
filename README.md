@@ -1,6 +1,6 @@
 # TP2
 
-Este ejercicio usa dos formularios consultando una fichero sin base de datos.
+Este ejercicio usa dos formularios consultando un fichero sin base de datos.
 
 
 Usuario: prueba

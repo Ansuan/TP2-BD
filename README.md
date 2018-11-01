@@ -1,5 +1,5 @@
 # TP2-BD
 
-Esta en construcción
+Este proyecto esta en desarrollo
 
 Antonio Robles Torres
